@@ -3,7 +3,7 @@
 <!--
 **peterdokim/peterdokim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-  ## 👋 Hi, I am Do heon Kim, a Junior studying Computer Science at University of California, San Diego.
+  ### 👋 Hi, I am Do heon Kim, a Junior studying Computer Science at University of California, San Diego.
 
 - 🔭 I’m currently working on building my github repository. 
 - 🌱 I’m currently learning on caches, virtual memory, convex optimization in machine learning.
