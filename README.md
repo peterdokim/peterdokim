@@ -11,4 +11,6 @@
 - 🤔 I’m looking for jobs in the summer of 2024.
 - 📫 How to reach me: Email : peterjhms1922@gmail.com / Linkedin : linkedin.com/in/dokim19/
 - ⚡ Fun fact: Life is boring without few sips of whiskey.
+## Resume
+[Download my resume(PDF)](./resume.pdf)
 
