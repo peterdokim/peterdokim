@@ -8,7 +8,7 @@
   CS @ UC SAN DIEGO, KATUSA 11B
  
 - 🌱 I’m currently learning on caches, virtual memory, convex optimization in machine learning.
-- 📫 How to reach me: Email : peterjhms1922@gmail.com / [Linkedin](linkedin.com/in/dokim19/)
+- 📫 How to reach me: Email : peterjhms1922@gmail.com / [Linkedin](https://linkedin.com/in/dokim19/)
 ## Resume
 📄 [Download my resume(PDF)](./Resume_DOKIM.pdf)
 
