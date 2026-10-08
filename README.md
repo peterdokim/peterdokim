@@ -1,5 +1,4 @@
-# Hi, I'm Doheon Kim (김도헌)
-
+# Hi, I'm Doheon Kim 
 Computer science student at UC San Diego (B.S., graduating December 2027) interested in
 software engineering, machine learning, and quantitative research.
 
